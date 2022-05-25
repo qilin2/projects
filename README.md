@@ -1,4 +1,5 @@
- # <p align=center> python-projects  </p>
+ # <p align=center> projects  </p>
+ <p align=center> .py, .cpp, .c, .rs  </p>
 <p align=center> FOR INTEREST ONLY </p>
 
 ## <b> <font size = "3"> Project 1: [WIFI Retriever](https://github.com/qilin2/python-projects/tree/main/WIFI%20Retriever) <br> </b> </font>
