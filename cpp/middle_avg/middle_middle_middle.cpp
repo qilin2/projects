@@ -1,5 +1,6 @@
 // Program: Inputs four double inputs and computes the average of two inputs 
 // which aren't the lowest and the highest.
+// Name: `.qilin
 // Date: 05/24/2022
 
 // Libraries
