@@ -1,6 +1,6 @@
 # <p align = center> C++ </p>
 
-## <p align = center> <font size ='3'> <b> Project 1: [Average of the Middle]() </b> </font> </p>
+## <p align = center> <font size ='3'> <b> Project 1: [Average of the Middle](https://github.com/qilin2/projects/blob/main/cpp/middle_avg/middle_middle_middle.cpp) </b> </font> </p>
 <br> About:
 A particular talent competition has 4 judges, each of whom awards a score between 0 and 20 to each performer, such as 8.3, 10... A performer’s final score is determined by dropping the highest, and lowest score received, then averaging the 2 remaining scores. Write a program that uses this method to calculate a contestant’s score. It should include the following functions:
 
