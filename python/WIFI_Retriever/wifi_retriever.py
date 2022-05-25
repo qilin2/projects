@@ -1,3 +1,7 @@
+## Retrieves WIFI passwords saved or accessed stored within your computer.
+## `.qilin
+## 04/20/2022
+
 ## Libraries
 import subprocess #enables system commands
 import re         #enables regular expressions
